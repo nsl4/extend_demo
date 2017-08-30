@@ -1,0 +1,13 @@
+button, .cta {
+  background-color: violet;
+  color: cyan;
+  font: 1.1em "Verdan", sans-serif bold;
+  border-radius: 8px;
+  border: 0;
+  padding: 10px 15px; }
+
+.cta {
+  width: 250px;
+  text-align: center; }
+
+/*# sourceMappingURL=css.test.css.map */
